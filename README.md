@@ -81,11 +81,6 @@ Specialization in: Algorithms, Data Structures, Graphs, Operating Systems, Digit
 
 ---
 
-## 📄 Additional Certifications
-- Bookkeeping Certificate (Level 1+2) — Ministry of Industry, Trade and Labor  
-
----
-
 <p align="center">
   <em>Thanks for visiting my profile! 👩‍💻</em>
 </p>
