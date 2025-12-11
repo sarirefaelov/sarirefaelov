@@ -39,13 +39,14 @@ React · JavaScript · Styled-Components · GitHub · Unit Tests
 ### 🏥 Clinic Management System
 *ASP.NET Core · C# · Web API*  
 - Manages doctors, patients, and appointments  
-- Includes role-based authorization and scheduling  
-
-### 🖼 Online Wall Art Store
+- Includes role-based authorization and scheduling
+  
+### 🖼 [Online Wall Art Store](https://viewart.onrender.com/)
 *React · Node.js · Express · MongoDB*  
 - Full-stack e-commerce website  
 - Authentication, roles, shopping cart, and orders API  
-- Deployed to Render cloud  
+- Deployed to Render cloud
+
 
 ---
 
