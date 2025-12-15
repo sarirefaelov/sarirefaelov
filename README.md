@@ -3,6 +3,7 @@
 <h3 align="center">💻 Software Developer | Front-End & Full-Stack | Problem Solver</h3>
 
 <p align="center">
+    📞 055-6761152 • 
   📧 <a href="mailto:sara782662@gmail.com">sara782662@gmail.com</a> • 
   🔗 <a href="https://github.com/sarirefaelov">GitHub</a>
 </p>
