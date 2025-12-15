@@ -49,7 +49,6 @@ React · JavaScript · Styled-Components · GitHub · Unit Tests
 
 
 ---
-
 ## 🛠 Technical Skills
 
 **Languages:** JavaScript · C# · C · C++ · Java · Assembly · Python  
