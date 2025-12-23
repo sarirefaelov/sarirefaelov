@@ -73,7 +73,6 @@ Specialization in: Algorithms, Data Structures, Graphs, Operating Systems, Digit
 5-unit matriculation in: Linear Algebra, Boolean Algebra, Statistics  
 
 ---
-
 ## 🌍 Languages
 **Hebrew:** Native  
 **English:** Good level  
