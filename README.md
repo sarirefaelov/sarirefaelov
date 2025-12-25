@@ -9,7 +9,6 @@
 </p>
 
 ---
-
 ## 📝 Profile
 Software Developer experienced in Agile teams and independent projects, with strong hands-on work in chip-related software, front-end development, and system optimization.  
 Persistent, analytical, and highly motivated, with a proven record of refactoring components to improve processing efficiency by **up to 70%**, while collaborating with a team of **25 developers**.  
