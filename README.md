@@ -17,6 +17,7 @@ Seeking a challenging, growth-oriented engineering position.
 
 ---
 
+
 ## 💼 Professional Experience
 
 ### 🧑‍💻 Front-End Developer (Practicum) – iAngels
